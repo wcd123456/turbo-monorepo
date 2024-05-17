@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {},
+  "packageManager": "pnpm@8.14.0"
+}
